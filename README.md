@@ -2,7 +2,11 @@ Hi 👋 My name is Nimani Gamage
 
 Undergraduate|--------------
 
-I did Computer Science Degree in NSBM Green University and i am willing to do my training with you. I am interested in UI/UX designing side and Quality Assurance Side.* 🌍  I'm based in Matale, Sri Lanka* ✉️  You can contact me at [Nimanigamage3@gmail.com](mailto:Nimanigamage3@gmail.com)* 🧠  I'm into UI/UX Desiging Side And Qulity Assurance side.
+I did Computer Science Degree in NSBM Green University and i am willing to do my training with you. I am interested in UI/UX designing side and Quality Assurance Side.
+
+* 🌍  I'm based in Matale, Sri Lanka
+* ✉️  You can contact me at [Nimanigamage3@gmail.com](mailto:Nimanigamage3@gmail.com)
+* 🧠  I'm into UI/UX Desiging Side And Qulity Assurance side.
 
 <a href="https://www.github.com/Nimani-Gamage" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Nimani-Gamage?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
